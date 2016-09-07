@@ -6,7 +6,7 @@
 <br />
 
 <div align="center"><strong>Start your next react project in seconds</strong></div>
-<div align="center">A highly scalable, ~~offline-first~~ foundation with the best DX and a focus on performance and best practices</div>
+<div align="center">A highly scalable, <del>offline-first</del> foundation with the best DX and a focus on performance and best practices</div>
 
 <br />
 
@@ -58,7 +58,7 @@
 
 <dl>
   <dt>Quick scaffolding</dt>
-  <dd>Create components, containers, ~~routes~~, selectors and sagas - and their tests - right from the CLI!</dd>
+  <dd>Create components, containers, <del>routes</del>, selectors and sagas - and their tests - right from the CLI!</dd>
 
   <dt>Instant feedback</dt>
   <dd>Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the CSS and JS are reflected instantaneously without refreshing the page. Preserve application state even when you update something in the underlying code!</dd>
@@ -78,8 +78,8 @@
   <dt>Industry-standard i18n internationalization support</dt>
   <dd>Scalable apps need to support multiple languages, easily add and support multiple languages with `react-intl`.</dd>
 
-  ~~<dt>Offline-first</dt>~~
-  ~~<dd>The next frontier in performant web apps: availability without a network connection from the instant your users load the app.</dd>~~
+  <del><dt>Offline-first</dt></del>
+  <del><dd>The next frontier in performant web apps: availability without a network connection from the instant your users load the app.</dd></del>
 
   <dt>SEO</dt>
   <dd>We support SEO (document head tags management) for search engines that support indexing of JavaScript content. (eg. Google)</dd>
@@ -98,7 +98,7 @@ But wait... there's more!
 
 There’s also a <a href="https://vimeo.com/168648012">fantastic video</a> on how to structure your React.js apps with scalability in mind. It provides rationale for the majority of boilerplate's design decisions.
 
-<sub><i>Keywords: React.js, Redux, Hot Reloading, ESNext, Babel, PostCSS, Autoprefixer, ~~react-router~~, ~~Offline First~~, ~~ServiceWorker~~, CSS Modules, redux-saga, FontFaceObserver, PageSpeed Insights</i></sub>
+<sub><i>Keywords: React.js, Redux, Hot Reloading, ESNext, Babel, PostCSS, Autoprefixer, <del>react-router</del>, <del>Offline First</del>, <del>ServiceWorker</del>, CSS Modules, redux-saga, FontFaceObserver, PageSpeed Insights</i></sub>
 
 ## Quick start
 
