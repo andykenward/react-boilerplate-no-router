@@ -102,6 +102,7 @@ There’s also a <a href="https://vimeo.com/168648012">fantastic video</a> on ho
 ## Quick start
 
 1. Clone this repo using `git clone --depth=1 https://github.com/andykenward/react-boilerplate-no-router`
+1. Run `npm install`
 1. Run `npm start` go to `http://localhost:3000`<br />
 
 Now you're ready to rumble!
