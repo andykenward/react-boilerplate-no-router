@@ -1,28 +1,31 @@
-<img src="https://raw.githubusercontent.com/mxstbr/react-boilerplate-brand/master/assets/banner-metal.jpg" alt="react boilerplate banner" align="center" />
+<div align="center">
+<h1>React Boilerplate No Router</h1>
+<h2 align="center"> Based on [React Boilerplate](https://github.com/mxstbr/react-boilerplate) <br/>with React Router and Offline features stripped out</h2>
+</div>
 
 <br />
 
 <div align="center"><strong>Start your next react project in seconds</strong></div>
-<div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
+<div align="center">A highly scalable, ~~offline-first~~ foundation with the best DX and a focus on performance and best practices</div>
 
 <br />
-
+https://github.com/andykenward/react-boilerplate-no-router
 <div align="center">
   <!-- Dependency Status -->
-  <a href="https://david-dm.org/mxstbr/react-boilerplate">
-    <img src="https://david-dm.org/mxstbr/react-boilerplate.svg" alt="Dependency Status" />
+  <a href="https://david-dm.org/andykenward/react-boilerplate-no-router">
+    <img src="https://david-dm.org/andykenward/react-boilerplate-no-router.svg" alt="Dependency Status" />
   </a>
   <!-- devDependency Status -->
-  <a href="https://david-dm.org/mxstbr/react-boilerplate#info=devDependencies">
-    <img src="https://david-dm.org/mxstbr/react-boilerplate/dev-status.svg" alt="devDependency Status" />
+  <a href="https://david-dm.org/andykenward/react-boilerplate-no-router#info=devDependencies">
+    <img src="https://david-dm.org/andykenward/react-boilerplate-no-router/dev-status.svg" alt="devDependency Status" />
   </a>
   <!-- Build Status -->
-  <a href="https://travis-ci.org/mxstbr/react-boilerplate">
-    <img src="https://travis-ci.org/mxstbr/react-boilerplate.svg" alt="Build Status" />
+  <a href="https://travis-ci.org/andykenward/react-boilerplate-no-router">
+    <img src="https://travis-ci.org/andykenward/react-boilerplate-no-router.svg" alt="Build Status" />
   </a>
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/mxstbr/react-boilerplate">
-    <img src="https://coveralls.io/repos/github/mxstbr/react-boilerplate/badge.svg" alt="Test Coverage" />
+  <a href="https://coveralls.io/r/andykenward/react-boilerplate-no-router">
+    <img src="https://coveralls.io/repos/github/andykenward/react-boilerplate-no-router/badge.svg" alt="Test Coverage" />
   </a>
 </div>
 <div align="center">
@@ -49,11 +52,13 @@
   <sub>Made with ❤︎ by <a href="https://twitter.com/mxstbr">Max Stoiber</a> and <a href="https://github.com/mxstbr/react-boilerplate/graphs/contributors">contributors</a>. <i>If you're using this boilerplate, we'd love to <a href="https://github.com/mxstbr/react-boilerplate/issues/115">hear from you</a>!</i></sub>
 </div>
 
+
+
 ## Features
 
 <dl>
   <dt>Quick scaffolding</dt>
-  <dd>Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!</dd>
+  <dd>Create components, containers, ~~routes~~, selectors and sagas - and their tests - right from the CLI!</dd>
 
   <dt>Instant feedback</dt>
   <dd>Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the CSS and JS are reflected instantaneously without refreshing the page. Preserve application state even when you update something in the underlying code!</dd>
@@ -73,8 +78,8 @@
   <dt>Industry-standard i18n internationalization support</dt>
   <dd>Scalable apps need to support multiple languages, easily add and support multiple languages with `react-intl`.</dd>
 
-  <dt>Offline-first</dt>
-  <dd>The next frontier in performant web apps: availability without a network connection from the instant your users load the app.</dd>
+  ~~<dt>Offline-first</dt>~~
+  ~~<dd>The next frontier in performant web apps: availability without a network connection from the instant your users load the app.</dd>~~
 
   <dt>SEO</dt>
   <dd>We support SEO (document head tags management) for search engines that support indexing of JavaScript content. (eg. Google)</dd>
@@ -93,7 +98,7 @@ But wait... there's more!
 
 There’s also a <a href="https://vimeo.com/168648012">fantastic video</a> on how to structure your React.js apps with scalability in mind. It provides rationale for the majority of boilerplate's design decisions.
 
-<sub><i>Keywords: React.js, Redux, Hot Reloading, ESNext, Babel, PostCSS, Autoprefixer, react-router, Offline First, ServiceWorker, CSS Modules, redux-saga, FontFaceObserver, PageSpeed Insights</i></sub>
+<sub><i>Keywords: React.js, Redux, Hot Reloading, ESNext, Babel, PostCSS, Autoprefixer, ~~react-router~~, ~~Offline First~~, ~~ServiceWorker~~, CSS Modules, redux-saga, FontFaceObserver, PageSpeed Insights</i></sub>
 
 ## Quick start
 
