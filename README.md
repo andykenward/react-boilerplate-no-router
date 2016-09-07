@@ -24,9 +24,8 @@
     <img src="https://travis-ci.org/andykenward/react-boilerplate-no-router.svg" alt="Build Status" />
   </a>
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/andykenward/react-boilerplate-no-router">
-    <img src="https://coveralls.io/repos/github/andykenward/react-boilerplate-no-router/badge.svg" alt="Test Coverage" />
-  </a>
+  <a href='https://coveralls.io/github/andykenward/react-boilerplate-no-router?branch=master'><img src='https://coveralls.io/repos/github/andykenward/react-boilerplate-no-router/badge.svg?branch=master' alt='Coverage Status' /></a>
+
 </div>
 <div align="center">
     <!-- Backers -->
