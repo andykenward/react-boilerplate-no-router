@@ -1,6 +1,6 @@
 <div align="center">
 <h1>React Boilerplate No Router</h1>
-<h2 align="center"> Based on [React Boilerplate](https://github.com/mxstbr/react-boilerplate) <br/>with React Router and Offline features stripped out</h2>
+<h2 align="center"> Based on <a href="https://github.com/mxstbr/react-boilerplate/tree/v3.1.0"> React Boilerplate v3.1.0</a> <br/>without React Router and Offline</h2>
 </div>
 
 <br />
@@ -9,7 +9,7 @@
 <div align="center">A highly scalable, ~~offline-first~~ foundation with the best DX and a focus on performance and best practices</div>
 
 <br />
-https://github.com/andykenward/react-boilerplate-no-router
+
 <div align="center">
   <!-- Dependency Status -->
   <a href="https://david-dm.org/andykenward/react-boilerplate-no-router">
@@ -102,10 +102,8 @@ There’s also a <a href="https://vimeo.com/168648012">fantastic video</a> on ho
 
 ## Quick start
 
-1. Clone this repo using `git clone --depth=1 https://github.com/mxstbr/react-boilerplate.git`
-1. Run `npm run setup` to install dependencies and clean the git repo.<br />
-   *At this point you can run `npm start` to see the example app at `http://localhost:3000`.*
-1. Run `npm run clean` to delete the example app.
+1. Clone this repo using `git clone --depth=1 https://github.com/andykenward/react-boilerplate-no-router`
+1. Run `npm start` go to `http://localhost:3000`<br />
 
 Now you're ready to rumble!
 
